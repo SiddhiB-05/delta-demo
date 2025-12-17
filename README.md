@@ -1,7 +1,7 @@
 # My project
 
 # Teacher
-Siddhi Biyani
+Siddhi Biyani.
 
 # student
 Dityaa Biyani
